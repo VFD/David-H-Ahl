@@ -31,6 +31,9 @@ The current state of each program's porting process is indicated by the icons sh
 
 Need to rate before coding.
 
+- B: Brut force
+- R: Rework
+
 ___
 ### 1975 - 101 Basic Games (❕📝)
 
