@@ -2,9 +2,10 @@
 ___
 
 WARNING\
-This repo will be change soon.
-- new name : DavidAhlsrc
-- RPUFOS will be reuse for the RPUFOS Group
+This repo change from "RPUFOS" to "David-H-Ahl".\
+"RPUFOS" will be reuse for the RPUFOS Group.
+
+The source codes for the Obscure Systems will be transferred to their eponymous repositories.
 
 ___
 ## Introduction
@@ -32,12 +33,13 @@ Published in the books:
 * Basic Computer Games (1978)
 * More Basic Computer Games (1979)
 * Computer in Mathematics (1979)
-* COmputer in Science and Social Studies (1983)
-* Big Computer Games (1984) (Orwell is here)
+* Computer in Science and Social Studies (1983)
+* Big Computer Games (1984) (Orwell is here?)
 * Basic Computer Adventure Games (1986)
 
 Each book has its own directory.
 In each one, there is the source code and as many directories as there are machines on which the program has been adapted.
+- The source codes for the Obscure Systems will be transferred to their eponymous repositories.
 
 There are probably other resources by David H. Ahl that haven't been published in books, especially in Creative Computing magazine (Ahl Computing, Inc.). Books are generally a compilation of this magazine.
 
