@@ -4,8 +4,7 @@
 ___
 ## Introduction
 
-The consolidation into a single file is being evaluated in order to streamline access and provide all content on one page.\
-The unified file format seems more appropriate
+The current TO DO List is being reassessed to be split toward each Obscure System. This repository will simply become our reference for adaptations.
 
 ___
 ## Work in progress
