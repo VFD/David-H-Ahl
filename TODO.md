@@ -704,7 +704,7 @@ ___
         <!-- B           R   -->
         <td>❌</td> <td>❌</td> <!-- Alice -->
         <td>❌</td> <td>❌</td> <!-- Aquarius -->
-		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
+		<td>❌</td> <td>❌</td> <!-- Canon X-07 -->
         <td>❌</td> <td>❌</td> <!-- Hector -->
         <td>❌</td> <td>❌</td> <!-- PHC-25 -->
         <td>❌</td> <td>❌</td> <!-- VG5000 -->
@@ -1247,6 +1247,7 @@ ___
         <th rowspan="2" style="text-align: center;">Rating</th>
         <th colspan="2" style="text-align: center;">Alice</th>
         <th colspan="2" style="text-align: center;">Aquarius</th>
+		<th colspan="2" style="text-align: center;">Canon X-07</th>
         <th colspan="2" style="text-align: center;">Hector</th>
         <th colspan="2" style="text-align: center;">PHC-25</th>
         <th colspan="2" style="text-align: center;">VG5000</th>
@@ -1262,6 +1263,8 @@ ___
         <th style="text-align: center;">R</th>
         <th style="text-align: center;">B</th>
         <th style="text-align: center;">R</th>
+		<th style="text-align: center;">B</th>
+        <th style="text-align: center;">R</th>
 	</tr>
 	<tr>
 		<td><a href="./01_Artillery3">Artillery3</a></td>
@@ -1269,6 +1272,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1279,6 +1283,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1289,6 +1294,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1299,6 +1305,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1309,6 +1316,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1319,6 +1327,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1329,6 +1338,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1339,6 +1349,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1349,6 +1360,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1359,6 +1371,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1369,6 +1382,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1379,6 +1393,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1389,6 +1404,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1399,6 +1415,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1409,6 +1426,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1419,6 +1437,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1429,6 +1448,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1439,6 +1459,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1449,6 +1470,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1459,6 +1481,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1469,6 +1492,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1479,6 +1503,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1489,6 +1514,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1499,6 +1525,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1509,6 +1536,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1519,6 +1547,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1529,6 +1558,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1539,6 +1569,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1549,6 +1580,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1559,6 +1591,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1569,6 +1602,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1579,6 +1613,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1589,6 +1624,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1599,6 +1635,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1609,6 +1646,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1619,6 +1657,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1629,6 +1668,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1639,6 +1679,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1649,6 +1690,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1659,6 +1701,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1669,6 +1712,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1679,6 +1723,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1689,6 +1734,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1699,6 +1745,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1709,6 +1756,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1719,6 +1767,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1729,6 +1778,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1739,6 +1789,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1749,6 +1800,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1759,6 +1811,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1769,6 +1822,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1779,6 +1833,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1789,6 +1844,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1799,6 +1855,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1809,6 +1866,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1819,6 +1877,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1829,6 +1888,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1839,6 +1899,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1849,6 +1910,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1859,6 +1921,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1869,6 +1932,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1879,6 +1943,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1889,6 +1954,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1899,6 +1965,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1909,6 +1976,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1919,6 +1987,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1929,6 +1998,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1939,6 +2009,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1949,6 +2020,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1959,6 +2031,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1969,6 +2042,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1979,6 +2053,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1989,6 +2064,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -1999,6 +2075,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2009,6 +2086,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2019,6 +2097,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2029,6 +2108,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2039,6 +2119,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2049,6 +2130,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2059,6 +2141,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2069,6 +2152,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2079,6 +2163,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2089,6 +2174,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2099,6 +2185,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2109,6 +2196,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2132,6 +2220,7 @@ ___
         <th rowspan="2" style="text-align: center;">Rating</th>
         <th colspan="2" style="text-align: center;">Alice</th>
         <th colspan="2" style="text-align: center;">Aquarius</th>
+		<th colspan="2" style="text-align: center;">Canon X-07</th>
         <th colspan="2" style="text-align: center;">Hector</th>
         <th colspan="2" style="text-align: center;">PHC-25</th>
         <th colspan="2" style="text-align: center;">VG5000</th>
@@ -2147,6 +2236,8 @@ ___
         <th style="text-align: center;">R</th>
         <th style="text-align: center;">B</th>
         <th style="text-align: center;">R</th>
+		<th style="text-align: center;">B</th>
+        <th style="text-align: center;">R</th>
     </tr>
     <tr>
         <td><a href="1984-BigComputerGames/01-Cribbage">Cribbage (📝)</a></td>
@@ -2154,6 +2245,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2164,6 +2256,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2174,6 +2267,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2184,6 +2278,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2194,6 +2289,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2204,6 +2300,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2214,6 +2311,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2224,6 +2322,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2234,6 +2333,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2244,6 +2344,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2254,6 +2355,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2264,6 +2366,7 @@ ___
         <!-- B           R   -->
         <td>✘</td> <td>✘</td> <!-- Alice -->
         <td>✘</td> <td>✘</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>✘</td> <td>✘</td> <!-- Hector -->
         <td>✘</td> <td>✘</td> <!-- PHC-25 -->
         <td>✘</td> <td>✘</td> <!-- VG5000 -->
@@ -2274,6 +2377,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⬜️</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2291,6 +2395,7 @@ ___
         <th rowspan="2" style="text-align: center;">Rating</th>
         <th colspan="2" style="text-align: center;">Alice</th>
         <th colspan="2" style="text-align: center;">Aquarius</th>
+		<th colspan="2" style="text-align: center;">Canon X-07</th>
         <th colspan="2" style="text-align: center;">Hector</th>
         <th colspan="2" style="text-align: center;">PHC-25</th>
         <th colspan="2" style="text-align: center;">VG5000</th>
@@ -2306,6 +2411,8 @@ ___
         <th style="text-align: center;">R</th>
         <th style="text-align: center;">B</th>
         <th style="text-align: center;">R</th>
+		<th style="text-align: center;">B</th>
+        <th style="text-align: center;">R</th>
     </tr>
     <tr>
         <td><a href="1986-BasicComputerAdventureGames01-MarcoPolo">Marco Polo</a></td>
@@ -2313,6 +2420,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>❌</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2323,6 +2431,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>❌</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2333,6 +2442,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>❌</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2343,6 +2453,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>❌</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2353,6 +2464,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>❌</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2363,6 +2475,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>❌</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2373,6 +2486,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>❌</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2383,6 +2497,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>❌</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2393,6 +2508,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>❌</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
@@ -2403,6 +2519,7 @@ ___
         <!-- B           R   -->
         <td>⬜️</td> <td>⬜️</td> <!-- Alice -->
         <td>⬜️</td> <td>⬜️</td> <!-- Aquarius -->
+		<td>⬜️</td> <td>⬜️</td> <!-- Canon X-07 -->
         <td>⬜️</td> <td>⬜️</td> <!-- Hector -->
         <td>⌨</td> <td>⬜️</td> <!-- PHC-25 -->
         <td>⬜️</td> <td>⬜️</td> <!-- VG5000 -->
