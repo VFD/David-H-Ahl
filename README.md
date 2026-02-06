@@ -43,6 +43,11 @@ In each one, there is the source code and as many directories as there are machi
 
 There are probably other resources by David H. Ahl that haven't been published in books, especially in Creative Computing magazine (Ahl Computing, Inc.). Books are generally a compilation of this magazine.
 
+French versions of the books exist. The idea is therefore to also redo all the source codes in VF, conform to the books.\
+We know of this books:
+- Jeux d'ordinateur en basic (SYBEX)(1982-06)
+- Nouveaux jeux d'ordinateur en basic (SYBEX)(1982-06)
+
 #### Archive.org
 
 French version of More Basic Computer Games:\
